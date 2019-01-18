@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Iphone 7 Plus 64gb",
+      "price": "100000",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "sadsa",
+      "price": "131313",
+      "status": false
+    }
+  ]
+}
